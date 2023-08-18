@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working with react.js and node.js
 - 💬 Ask me about WEB Development
 ### ⚡Skills and Technologies:
-+ Familier with : HTML, CSS, JavaScript, React, Node.js, ASP.NET
++ expertise In : HTML, CSS, JavaScript, React, Node.js, ASP.NET
 + Databases: MySQL, MongoDB, SqlServer
 + Cloud computing:  Google Cloud Platform (GCP) 
   - Google cloud Ready Facilator programe 2022
