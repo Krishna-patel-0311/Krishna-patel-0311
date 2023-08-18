@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently a CSE 4<sup>th</sup> year student at RK University, Rajkot. 
-- 🌱 I’m currently learning Node js
+- 🌱 I’m currently working with react.js and node.js
 - 💬 Ask me about WEB Development
 ### ⚡Skills and Technologies:
 + Familier with : HTML, CSS, JavaScript, React, Node.js, ASP.NET
