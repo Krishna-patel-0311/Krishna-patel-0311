@@ -1,16 +1,16 @@
 # Hi, I'm Krishna Patel 👋
 
-💻 .NET Developer | Backend Specialist
-🚀 2+ years of experience building scalable web applications
+💻 .NET Full Stack Developer (2+ years experience)
+🚀 Building scalable web applications using ASP.NET Core & React
 📍 India
 
 ---
 
 ## 💼 About Me
 
-I’m a backend-focused .NET developer who enjoys building clean, scalable, and high-performance applications.
+I’m a .NET Full Stack Developer with hands-on experience in building end-to-end web applications.
 
-My core strength lies in designing robust APIs, implementing business logic, and optimizing database performance for real-world applications.
+I work across both backend and frontend, with a stronger focus on backend development—designing APIs, handling business logic, and optimizing database performance.
 
 ---
 
@@ -22,38 +22,39 @@ My core strength lies in designing robust APIs, implementing business logic, and
 * Web API (RESTful services)
 * Entity Framework Core
 
+**Frontend**
+
+* React
+* JavaScript, HTML, CSS
+
 **Database**
 
 * SQL Server
 * Stored Procedures, Query Optimization
 
-**Frontend**
-
-* React (Basics), JavaScript, HTML, CSS
-
 **Tools & Practices**
 
 * Git, GitHub
-* Clean Architecture
+* Clean Architecture (basic understanding)
 * REST API Design
-* Debugging & Performance Tuning
+* Debugging & Performance Optimization
 
 ---
 
-## 🚀 What I Bring
+## 🚀 What I Do
 
-* Design and build scalable backend systems
+* Build full stack applications using .NET & React
+* Develop secure and scalable REST APIs
+* Implement business logic and database design
 * Write clean, maintainable, and production-ready code
-* Optimize SQL queries for performance-critical applications
-* Implement secure authentication & authorization (JWT)
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: <https://www.linkedin.com/in/krishna-patel11>
+* LinkedIn: <youhttps://www.linkedin.com/in/krishna-patel11r-link>
 * Email: <patelkrishna0311@gmail.com>
 
 ---
 
-⭐ *Open to new opportunities in .NET / Backend Development*
+⭐ *Open to opportunities in .NET Full Stack Development*
