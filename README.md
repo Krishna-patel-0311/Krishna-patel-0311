@@ -1,28 +1,59 @@
-# <h2 align="center"> Hello Everyone 😊👋,This is Krishna Patel </h2>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90965107/216408397-75ddead8-76a3-4c96-8d42-ec15befe01c8.gif" height="300px" width="300px" alt="custom image"/>
-</p>
+# Hi, I'm Krishna Patel 👋
 
-<!--
-**NIRAV-PATEL-15/NIRAV-PATEL-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!--
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently a CSE 4<sup>th</sup> year student at RK University, Rajkot. 
-- 🌱 I’m currently working with react.js and node.js
-- 💬 Ask me about WEB Development
-### ⚡Skills and Technologies:
-+ expertise In : HTML, CSS, JavaScript, React, Node.js, ASP.NET
-+ Databases: MySQL, MongoDB, SqlServer
-+ Cloud computing:  Google Cloud Platform (GCP) 
-  - Google cloud Ready Facilator programe 2022
+💻 .NET Developer | Backend Specialist
+🚀 2+ years of experience building scalable web applications
+📍 India
 
-# 📫 How to reach me: 
-### Email : 
-- patelkrishna0311@gmail.com
-- kpatel581@rku.ac.in
-### online profiles
-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> : https://www.linkedin.com/in/krishna-patel11/
+---
 
+## 💼 About Me
 
+I’m a backend-focused .NET developer who enjoys building clean, scalable, and high-performance applications.
+
+My core strength lies in designing robust APIs, implementing business logic, and optimizing database performance for real-world applications.
+
+---
+
+## 🔧 Tech Stack
+
+**Backend**
+
+* C#, ASP.NET Core, ASP.NET MVC
+* Web API (RESTful services)
+* Entity Framework Core
+
+**Database**
+
+* SQL Server
+* Stored Procedures, Query Optimization
+
+**Frontend**
+
+* React (Basics), JavaScript, HTML, CSS
+
+**Tools & Practices**
+
+* Git, GitHub
+* Clean Architecture
+* REST API Design
+* Debugging & Performance Tuning
+
+---
+
+## 🚀 What I Bring
+
+* Design and build scalable backend systems
+* Write clean, maintainable, and production-ready code
+* Optimize SQL queries for performance-critical applications
+* Implement secure authentication & authorization (JWT)
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: <https://www.linkedin.com/in/krishna-patel11>
+* Email: <patelkrishna0311@gmail.com>
+
+---
+
+⭐ *Open to new opportunities in .NET / Backend Development*
