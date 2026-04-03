@@ -52,7 +52,7 @@ I work across both backend and frontend, with a stronger focus on backend develo
 
 ## 📫 Connect With Me
 
-* LinkedIn: <youhttps://www.linkedin.com/in/krishna-patel11r-link>
+* LinkedIn: <https://www.linkedin.com/in/krishna-patel11r-link>
 * Email: <patelkrishna0311@gmail.com>
 
 ---
